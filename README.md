@@ -26,4 +26,4 @@ It fetches trivia questions from the [Open Trivia DB](https://opentdb.com/) API 
 - `requests` library  
   *(Install with: `pip install requests`)*
 
-## Made by Ashwin Yadav for LNB
+## Made by Mohit Meena.
